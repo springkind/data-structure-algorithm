@@ -5,9 +5,10 @@
 
 ## 목차
 1. 알고리즘기초
-    1. 1부터 n까지의 합 구하기
-    2. 최댓값 찾기
-    3. 동명이인 찾기_1
+    1. [1부터 n까지의 합 구하기](./algorithm_basic/sum_1_to_n.py)
+    2. [최댓값 찾기](./algorithm_basic/get_max_num.py)
+        * [최댓값의 인덱스 찾기](./algorithm_basic/get_index_of_num.py)
+    3. [동명이인 찾기_1](./algorithm_basic/gether_names_had_same_name.py)
 2. 재귀 호출
     1. 팩토리얼 구하기
     2. 최대공약수 구하기
